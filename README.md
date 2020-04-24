@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Aplicacion de Gastos semanales 
+
+Correspondiente a la carpeta 6 del curso de React MERN de udemy
+
 ## Available Scripts
 
 In the project directory, you can run:
