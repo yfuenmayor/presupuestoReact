@@ -4,6 +4,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Correspondiente a la carpeta 6 del curso de React MERN de udemy
 
+## Helpers ReactJs
+
+En este proyecto se uso el Helper para poder verificar en que porcentaje del 
+presupuesto quedabamos luego de hacer un gasto y asi poder condicionar 
+el mensaje del restante del presupuesto para mostrarlo por colores segun
+el porcentaje
+
+    restante > 50%  - Verde
+    restante <= 50% - Amarillo
+    restante <= 25% - Rojo
+
+
 ## Available Scripts
 
 In the project directory, you can run:
